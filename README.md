@@ -48,10 +48,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Chandan118&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chandan118&theme=github" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan118&layout=compact" alt="Top languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandan118&theme=github" alt="Top languages" />
     </td>
   </tr>
 </table>
