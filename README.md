@@ -19,8 +19,8 @@
 ## Publications
 - 2025: Bio-inspired navigation systems for robots. DOI: https://doi.org/10.1038/s44222-025-00367-6
 - 2025: Marine-Inspired Multimodal Sensor Fusion and Neuromorphic Processing for Autonomous Navigation. DOI: https://doi.org/10.3390/s25216627
-- 2025: Neuromorphic Navigation for Autonomous Robots. Device (Cell Press).
-- 2025: Autonomous Space Exploration, Interplanetary Communication Latency, Ethical AI Protocols, Machine Learning in Extreme Environments. Accepted Q1 journal.
+- 2025: Neuromorphic Navigation for Autonomous Robots. Device (Cell Press). DOI: https://doi.org/10.1016/j.device.2025.100998
+- 2025: Autonomous Space Exploration, Interplanetary Communication Latency, Ethical AI Protocols, Machine Learning in Extreme Environments. Accepted Q1 journal. DOI: https://arc.aiaa.org/doi/10.2514/1.I011710
 - 2026: A Neuromorphic Framework for Bio-Inspired Navigation in Autonomous Robots. Cell Reports Physical Science, Accepted.
 - 2025: Bio-inspired and Soft Robotics for Autonomous Wind Energy Operations: A Comprehensive Review. Submitted to Renewable and Sustainable Energy Reviews (2nd revision).
 - 2025: Soft Computing Techniques Applied to Adaptive Hybrid Navigation Methods for Tethered Robots in Dynamic Environments. Submitted to Robotics and Autonomous Systems (preprint: Authorea), 2nd revision.
